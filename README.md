@@ -1,4 +1,5 @@
 <h1 align="center">~💖 Welcome to my GitHub profile~ UwU 💖~</h1>
+<img src="https://user-images.githubusercontent.com/55527757/185646170-604a384a-85bc-4542-8788-f0bc01ff41fd.jpg" height="480px" width="100%"> 
 
 <div>
   <h2 align="center"> 🦊 ~ About me ~ 🦊 </h2>
