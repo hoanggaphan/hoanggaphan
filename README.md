@@ -1,5 +1,12 @@
-<h1 align="center">~💖 Welcome to my GitHub profile~ UwU 💖~</h1>
+<h1 align="center">
+<img src="https://user-images.githubusercontent.com/55527757/185651731-7e42e091-e30e-4de1-aa82-d2e7e87976eb.png" height="40px" width="40px"> 
+  ~ Welcome to my GitHub profile~ UwU ~
+<img src="https://user-images.githubusercontent.com/55527757/185651731-7e42e091-e30e-4de1-aa82-d2e7e87976eb.png" height="40px" width="40px"></h1>
 <img src="https://user-images.githubusercontent.com/55527757/185646170-604a384a-85bc-4542-8788-f0bc01ff41fd.jpg" height="480px" width="100%"> 
+
+
+
+![2639-eeveerun](https://user-images.githubusercontent.com/55527757/185650283-7810f1f2-ac83-441c-8bc6-31130fa7dd52.gif)
 
 <div>
   <h2 align="center"> 🦊 ~ About me ~ 🦊 </h2>
