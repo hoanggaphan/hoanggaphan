@@ -9,7 +9,7 @@
     <img  align="left" src="https://user-images.githubusercontent.com/55527757/185730413-c69df10f-6ce1-4872-b239-80dde8ab360a.png" height="40px" width="40px"> 
     About me
   </h2>
-  
+ 
   <img height="200px" src="https://user-images.githubusercontent.com/55527757/185731421-3f7a0e8d-c8de-4003-8d21-a423f1232e9d.gif" align="right">
 
   <p>
@@ -46,7 +46,7 @@
 
 <div>
   <h2 >
-    <img  align="left" src="https://user-images.githubusercontent.com/55527757/185732120-9c358171-aa02-404b-a16a-e3e0cf5395da.png" height="40px" width="40px"> 
+    <img  align="left" src="https://user-images.githubusercontent.com/55527757/185733874-73c9f0cb-37e8-41df-b679-d8556603839a.png" height="40px" width="40px"> 
     Languages and Tools
   </h2>
   
@@ -63,9 +63,12 @@
 
 <br>
 <div>
-  <h2>Contact me</h2>
-  
-  <div align="center">
+  <h2 >
+    <img  align="left" src="https://user-images.githubusercontent.com/55527757/185732120-9c358171-aa02-404b-a16a-e3e0cf5395da.png" height="40px" width="40px"> 
+    Contact me
+  </h2>
+
+  <div>
   <a href="https://twitter.com/hoanggaphan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hoanggaphan" height="30" width="40" /></a>
   <a href="https://fb.com/hoàng phan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hoàng phan" height="30" width="40" /></a>
   </div>
@@ -73,7 +76,11 @@
 </div>
 
 <div>
-  <h2 align="center"> ⭐ ~ Others ~ ⭐ </h2>
+  <h2 >
+    <img  align="left" src="https://user-images.githubusercontent.com/55527757/185733518-a7177f95-2ac6-4d86-a85c-f83ff116dd7b.png" height="40px" width="40px"> 
+    Stats
+  </h2>
+
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=hoanggaphan&show_icons=true&locale=en&theme=react" alt="hoanggaphan" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hoanggaphan&show_icons=true&locale=en&layout=compact&theme=react" alt="hoanggaphan" /> 
