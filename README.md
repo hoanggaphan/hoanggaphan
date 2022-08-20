@@ -50,7 +50,7 @@
     Languages and Tools
   </h2>
   
-  <img height="200px" src="https://user-images.githubusercontent.com/55527757/185733173-5bcbfa9e-8f3d-4924-8bb1-d901cc794df6.gif" align="left">
+  <img height="200px" src="https://user-images.githubusercontent.com/55527757/185734384-7b96efd0-717e-4fe0-9060-497a8b5590fd.gif" align="left">
 
   <br>
   <br>
