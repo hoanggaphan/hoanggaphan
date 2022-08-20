@@ -39,19 +39,19 @@
   </p>
   <p>
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://user-images.githubusercontent.com/55527757/185730868-5204adb0-2093-4545-80f0-63f22020646d.png" height="25px" width="25px">
+    <img src="https://user-images.githubusercontent.com/55527757/185735497-f0838dc2-537f-4910-b403-032310d0e8a0.png" height="25px" width="25px">
     &nbsp;How to reach me <a href="mailto:dev.phansihoang@gmail.com">dev.phansihoang@gmail.com</a>
   </p>
   <p>
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://user-images.githubusercontent.com/55527757/185730868-5204adb0-2093-4545-80f0-63f22020646d.png" height="25px" width="25px">
+    <img src="https://user-images.githubusercontent.com/55527757/185731593-a05cccdd-36ed-4484-b080-43f931279b4c.png" height="25px" width="25px">
     &nbsp;Socials:
     <a href="https://twitter.com/hoanggaphan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hoanggaphan" height="20" width="30" /></a>
     <a href="https://fb.com/hoàng phan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hoàng phan" height="20" width="30" /></a>
   </p>
   <p>
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://user-images.githubusercontent.com/55527757/185731593-a05cccdd-36ed-4484-b080-43f931279b4c.png" height="25px" width="25px">
+    <img src="https://user-images.githubusercontent.com/55527757/185735496-0bb34ea1-f47e-48ca-86ba-b37d3e071e75.png" height="25px" width="25px">
     &nbsp;Let's get to know each other
   </p>
 </div>
