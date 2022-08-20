@@ -4,31 +4,44 @@
 <img src="https://user-images.githubusercontent.com/55527757/185651731-7e42e091-e30e-4de1-aa82-d2e7e87976eb.png" height="40px" width="40px"></h1>
 <img src="https://user-images.githubusercontent.com/55527757/185646170-604a384a-85bc-4542-8788-f0bc01ff41fd.jpg" height="480px" width="100%"> 
 
-
-
-![2639-eeveerun](https://user-images.githubusercontent.com/55527757/185650283-7810f1f2-ac83-441c-8bc6-31130fa7dd52.gif)
-
 <div>
-  <h2 align="center"> 🦊 ~ About me ~ 🦊 </h2>
-  <img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right">
-  <li>
-   <b>Name:</b> <a href='https://laby.net/@Sorakali' target=_blank>:3</a></li>
-  <li>
-  <b>Fursona:</b> Female Snow Fox
-  </li>
-  <li>
-  <b>Loves:</b> anime, sports, games
-  </li>
-  <li>
-  <b>Gender:</b> he/him/male 🏳️‍⚧️
-  </li>
-  <li>
-  <b>Hobbys:</b> Tech Stuff, Graphic Design, Web Development
-  </li>
-  <li>
-  <b>Working @:</b> Intave Anticheat
-  </li>
-  <br><br><br><br><br>
+  <h2 valign="center">
+    <img  align="left" src="https://user-images.githubusercontent.com/55527757/185730413-c69df10f-6ce1-4872-b239-80dde8ab360a.png" height="40px" width="40px"> 
+    About me
+  </h2>
+  
+  <img height="170px" src="https://user-images.githubusercontent.com/55527757/185731421-3f7a0e8d-c8de-4003-8d21-a423f1232e9d.gif" align="right">
+
+  <p>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://user-images.githubusercontent.com/55527757/185731590-cf808d8a-ddbd-4e96-a086-fee42f2841cd.png" height="25px" width="25px">
+    &nbsp;My name is <b>Hoàng</b>
+  </p>
+    <p>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://user-images.githubusercontent.com/55527757/185730868-5204adb0-2093-4545-80f0-63f22020646d.png" height="25px" width="25px">
+    &nbsp;Fun fact: I used to like my teacher
+  </p>
+  <p>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://user-images.githubusercontent.com/55527757/185730714-e4cbe74d-79f0-4503-a2b7-9ae2d2c0355b.png" height="25px" width="25px">
+    &nbsp;I’m currently learning everything
+  </p>
+  <p>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://user-images.githubusercontent.com/55527757/185730862-7d741942-b1af-4c7c-b4a5-8c55746ff554.png" height="25px" width="25px">
+    &nbsp;Hobbies: ...code, games, films, anime, sports
+  </p>
+  <p>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://user-images.githubusercontent.com/55527757/185730865-c8199297-9272-42ee-a422-b9bf48ec87dd.png" height="25px" width="25px">
+    &nbsp;Pronouns: ...he/him/male
+  </p>
+  <p>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://user-images.githubusercontent.com/55527757/185731593-a05cccdd-36ed-4484-b080-43f931279b4c.png" height="25px" width="25px">
+    &nbsp;Fun fact: ...I used to like my teacher
+  </p>
 </div>
 
 <div>
