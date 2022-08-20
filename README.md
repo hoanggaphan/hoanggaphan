@@ -69,10 +69,10 @@
   </h2>
 
   <div>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/hoanggaphan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hoanggaphan" height="30" width="40" /></a>
   <a href="https://fb.com/hoàng phan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hoàng phan" height="30" width="40" /></a>
   </div>
-  <br>
 </div>
 
 <div>
@@ -81,9 +81,10 @@
     Stats
   </h2>
 
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=hoanggaphan&show_icons=true&locale=en&theme=react" alt="hoanggaphan" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hoanggaphan&show_icons=true&locale=en&layout=compact&theme=react" alt="hoanggaphan" /> 
+  <div>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=hoanggaphan&show_icons=true&locale=en&theme=react" alt="hoanggaphan" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hoanggaphan&show_icons=true&locale=en&layout=compact&theme=react" alt="hoanggaphan" /> 
   </div>
   <br>
 </div>
