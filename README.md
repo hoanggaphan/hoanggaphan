@@ -63,8 +63,7 @@
     Contact me
   </h2>
 
-  <div>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  <div align="center">
   <a href="https://twitter.com/hoanggaphan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hoanggaphan" height="30" width="40" /></a>
   <a href="https://fb.com/hoàng phan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hoàng phan" height="30" width="40" /></a>
   </div>
