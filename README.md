@@ -88,10 +88,3 @@
   </div>
   <br>
 </div>
-
-<div>
-  <h2 align="center">💖 ~ Thanks for reading! ~ 💖</h2>
-  <div align="center">
-    <img src="https://thumbs.gfycat.com/ElderlyNiceIsopod-size_restricted.gif">
-  </div>
-</div>
