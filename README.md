@@ -46,9 +46,9 @@
     &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://user-images.githubusercontent.com/55527757/185731593-a05cccdd-36ed-4484-b080-43f931279b4c.png" height="25px" width="25px">
     &nbsp;Socials:
-    <a href="https://twitter.com/hoanggaphan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hoanggaphan" height="30" width="40" /></a>
-    <a href="https://fb.com/hoang.phansi.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hoàng phan" height="30" width="40" /></a>
-    <a href="www.linkedin.com/in/hoàng-phan-sĩ" target="blank"><img align="center" src="https://user-images.githubusercontent.com/55527757/218376388-31784c2f-df8f-4ee5-bb3c-00bc931ab175.svg" alt="hoàng phan" height="30" width="40" /></a>
+    <a href="https://twitter.com/hoanggaphan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hoanggaphan" height="30" width="40" /></a>
+    <a href="https://fb.com/hoang.phansi.3" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hoàng phan" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/hoàng-phan-sĩ" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/55527757/218376388-31784c2f-df8f-4ee5-bb3c-00bc931ab175.svg" alt="hoàng phan" height="30" width="40" /></a>
   </p>
   <p>
     &nbsp;&nbsp;&nbsp;&nbsp;
