@@ -25,12 +25,12 @@
   <p>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://user-images.githubusercontent.com/55527757/185730714-e4cbe74d-79f0-4503-a2b7-9ae2d2c0355b.png" height="25px" width="25px">
-    &nbsp;Ask me about: <code>...,Web dev, ReactJS</code>
+    &nbsp;Ask me about: <code>...Web dev, ReactJS</code>
   </p>
   <p>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://user-images.githubusercontent.com/55527757/185730862-7d741942-b1af-4c7c-b4a5-8c55746ff554.png" height="25px" width="25px">
-    &nbsp;Hobbies: <code>...code, games, films, anime, sports</code>
+    &nbsp;Hobbies: <code>...Code, Games, Films, Anime, Sports</code>
   </p>
   <p>
     &nbsp;&nbsp;&nbsp;&nbsp;
@@ -46,8 +46,8 @@
     &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://user-images.githubusercontent.com/55527757/185731593-a05cccdd-36ed-4484-b080-43f931279b4c.png" height="25px" width="25px">
     &nbsp;Socials:
-    <a href="https://twitter.com/hoanggaphan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hoanggaphan" height="30" width="40" /></a>
-    <a href="https://fb.com/hoang.phansi.3" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hoàng phan" height="30" width="40" /></a>
+    <a href="https://twitter.com/hoanggaphan" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/55527757/218376957-737036f6-9df5-4ffe-9ca3-5603439d3954.svg" alt="hoanggaphan" height="30" width="40" /></a>
+    <a href="https://fb.com/hoang.phansi.3" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/55527757/218377568-a4426ad7-c808-4754-aec7-ce31789f45f4.svg" alt="hoàng phan" height="30" width="40" /></a>
     <a href="https://linkedin.com/in/hoàng-phan-sĩ" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/55527757/218376388-31784c2f-df8f-4ee5-bb3c-00bc931ab175.svg" alt="hoàng phan" height="30" width="40" /></a>
   </p>
   <p>
