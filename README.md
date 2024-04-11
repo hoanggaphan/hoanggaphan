@@ -73,7 +73,7 @@
 <div>
   <h2 >
     <img  align="left" src="https://user-images.githubusercontent.com/55527757/185733518-a7177f95-2ac6-4d86-a85c-f83ff116dd7b.png" height="40px" width="40px"> 
-    Stats
+    Ranking
   </h2>
 
   <div align="center">
