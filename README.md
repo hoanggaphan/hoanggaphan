@@ -1,7 +1,17 @@
+
+
 <h1 align="center">
-<img src="https://user-images.githubusercontent.com/55527757/185651731-7e42e091-e30e-4de1-aa82-d2e7e87976eb.png" height="40px" width="40px"> 
-  Hi, I'm Hoàng
-<img src="https://user-images.githubusercontent.com/55527757/185651731-7e42e091-e30e-4de1-aa82-d2e7e87976eb.png" height="40px" width="40px"></h1>
+  <img src="https://user-images.githubusercontent.com/55527757/185651731-7e42e091-e30e-4de1-aa82-d2e7e87976eb.png" height="40px" width="40px"> 
+    Hi, I'm Hoàng
+  <img src="https://user-images.githubusercontent.com/55527757/185651731-7e42e091-e30e-4de1-aa82-d2e7e87976eb.png" height="40px" width="40px">
+</h1>
+
+<h2 align="center">
+  <img width="40" height="40" alt="gaming (1)" src="https://github.com/user-attachments/assets/87d8c564-6653-41e4-beaf-c3cfd1f22c10" />
+    I build things with JavaScript and catch bugs like Pokémons!
+  <img width="40" height="40" alt="gaming (1)" src="https://github.com/user-attachments/assets/87d8c564-6653-41e4-beaf-c3cfd1f22c10" />
+</h2>
+
 <img src="https://user-images.githubusercontent.com/55527757/185646170-604a384a-85bc-4542-8788-f0bc01ff41fd.jpg" height="480px" width="100%"> 
 
 <div>
@@ -60,7 +70,7 @@
 <br>
 <div>
   <h2 >
-    <img  align="left" src="https://user-images.githubusercontent.com/55527757/185733874-73c9f0cb-37e8-41df-b679-d8556603839a.png" height="25px" width="25px"> 
+    <img width="40" height="40" align="left" alt="gaming" src="https://github.com/user-attachments/assets/19887bed-389a-494a-84b3-30b1d781d03a" />
     Languages and Tools
   </h2>
 
