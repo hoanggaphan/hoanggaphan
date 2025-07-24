@@ -39,12 +39,12 @@
   <p>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://user-images.githubusercontent.com/55527757/185730865-c8199297-9272-42ee-a422-b9bf48ec87dd.png" height="25px" width="25px">
-    &nbsp;Fun fact: <code>...I used to like my teacher</code>
+    &nbsp;Goals: <code>...Build solid, scalable, well-tested frontend systems</code>
   </p>
   <p>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://user-images.githubusercontent.com/55527757/185735497-f0838dc2-537f-4910-b403-032310d0e8a0.png" height="25px" width="25px">
-    &nbsp;How to reach me <a href="mailto:dev.phansihoang@gmail.com">dev.phansihoang@gmail.com</a>
+    &nbsp;Contact me: <a href="mailto:dev.phansihoang@gmail.com">dev.phansihoang@gmail.com</a>
   </p>
   <p>
     &nbsp;&nbsp;&nbsp;&nbsp;
