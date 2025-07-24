@@ -60,41 +60,51 @@
 <br>
 <div>
   <h2 >
-    <img  align="left" src="https://user-images.githubusercontent.com/55527757/185733874-73c9f0cb-37e8-41df-b679-d8556603839a.png" height="40px" width="40px"> 
+    <img  align="left" src="https://user-images.githubusercontent.com/55527757/185733874-73c9f0cb-37e8-41df-b679-d8556603839a.png" height="25px" width="25px"> 
     Languages and Tools
   </h2>
 
-  <div align="center">
-
-### 💻 Frontend
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwindcss)
-![Sass](https://img.shields.io/badge/-SASS-CC6699?style=flat&logo=sass)
-
-### 🧰 Backend & Database
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
-
-### 🛠️ Tools & DevOps
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
-
-### 🎨 Design
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
- 
+  <div>
+    <p>
+       &nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/mewtwo.gif" alt="Mewtwo" height="50px" width="50px" >
+      Frontend: 
+      <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" >  
+      <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3" >  
+      <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" >  
+      <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" >  
+      <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react" >  
+      <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs" >  
+      <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular" >  
+      <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwindcss" >  
+    </p>
+    <p>
+       &nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/rayquaza.gif" alt="Rayquaza" height="50px" width="50px" >
+      Backend & Database: 
+      <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" >  
+      <img src="https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white" >  
+      <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" >
+      <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" >  
+      <img src="https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white" >  
+    </p>
+    <p>
+       &nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/porygon.gif" alt="Porygon" height="50px" width="50px" >
+      Tools: 
+      <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" >  
+      <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github" >  
+      <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" >
+      <img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white" >  
+      <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white" >  
+      <img src="https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white" >  
+    </p>
+    <p>
+       &nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/smeargle.gif" alt="Smeargle height="50px" width="50px" >
+      Design: 
+      <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" >  
+    </p>
   </div>
 </div>
 
@@ -102,7 +112,7 @@
 <div>
   <h2 >
     <img  align="left" src="https://user-images.githubusercontent.com/55527757/185733518-a7177f95-2ac6-4d86-a85c-f83ff116dd7b.png" height="40px" width="40px"> 
-    Ranking
+    GitHub Stats
   </h2>
 
   <div align="center">
