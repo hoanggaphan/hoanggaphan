@@ -1,6 +1,6 @@
 <h1 align="center">
 <img src="https://user-images.githubusercontent.com/55527757/185651731-7e42e091-e30e-4de1-aa82-d2e7e87976eb.png" height="40px" width="40px"> 
-  Hi, I'm Hoàng 👋 Fullstack Developer focusing on Frontend
+  Hi, I'm Hoàng
 <img src="https://user-images.githubusercontent.com/55527757/185651731-7e42e091-e30e-4de1-aa82-d2e7e87976eb.png" height="40px" width="40px"></h1>
 <img src="https://user-images.githubusercontent.com/55527757/185646170-604a384a-85bc-4542-8788-f0bc01ff41fd.jpg" height="480px" width="100%"> 
 
