@@ -67,7 +67,7 @@
   <div>
     <p>
        &nbsp;&nbsp;&nbsp;&nbsp;
-      <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/mewtwo.gif" alt="Mewtwo" height="50px" width="50px" >
+      <img width="25" height="25" alt="avatar" src="https://github.com/user-attachments/assets/3a4672ae-df3d-4b14-bbb1-511905680b05" />
       Frontend: 
       <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" >  
       <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3" >  
@@ -80,7 +80,7 @@
     </p>
     <p>
        &nbsp;&nbsp;&nbsp;&nbsp;
-      <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/rayquaza.gif" alt="Rayquaza" height="50px" width="50px" >
+      <img width="25" height="25" alt="avatar (1)" src="https://github.com/user-attachments/assets/90f0d78d-374f-4856-aeb3-66ec012a7d06" />
       Backend & Database: 
       <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" >  
       <img src="https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white" >  
@@ -90,7 +90,7 @@
     </p>
     <p>
        &nbsp;&nbsp;&nbsp;&nbsp;
-      <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/porygon.gif" alt="Porygon" height="50px" width="50px" >
+      <img width="25" height="25" alt="avatar (2)" src="https://github.com/user-attachments/assets/cc4c1c71-d265-4b5a-9639-4e9635c901a1" />
       Tools: 
       <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" >  
       <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github" >  
@@ -101,7 +101,7 @@
     </p>
     <p>
        &nbsp;&nbsp;&nbsp;&nbsp;
-      <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/smeargle.gif" alt="Smeargle height="50px" width="50px" >
+      <img width="25" height="25" alt="avatar (3)" src="https://github.com/user-attachments/assets/ac32da5a-f06a-4ae1-a33d-3a7129d109ef" />
       Design: 
       <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" >  
     </p>
