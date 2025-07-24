@@ -126,8 +126,8 @@
   </h2>
 
   <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hoanggaphan&show_icons=true&locale=en&theme=react" alt="hoanggaphan" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hoanggaphan&show_icons=true&locale=en&layout=compact&theme=react" alt="hoanggaphan" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=hoanggaphan&show_icons=true&locale=en&theme=monokai" alt="hoanggaphan" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hoanggaphan&show_icons=true&locale=en&layout=compact&theme=monokai" alt="hoanggaphan" /> 
   </div>
   <br>
 </div>
