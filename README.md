@@ -43,21 +43,8 @@
   </p>
   <p>
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://user-images.githubusercontent.com/55527757/185735497-f0838dc2-537f-4910-b403-032310d0e8a0.png" height="25px" width="25px">
-    &nbsp;Contact me: <a href="mailto:dev.phansihoang@gmail.com">dev.phansihoang@gmail.com</a>
-  </p>
-  <p>
-    &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://user-images.githubusercontent.com/55527757/185731593-a05cccdd-36ed-4484-b080-43f931279b4c.png" height="25px" width="25px">
-    &nbsp;Socials:
-    <a href="https://twitter.com/hoanggaphan" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/55527757/218378296-d73d6935-dfc7-47bb-a64e-bf18fe856bbe.svg" alt="hoanggaphan" height="60" width="60" /></a>
-    <a href="https://fb.com/hoang.phansi.3" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/55527757/218378341-ec7421d8-6b81-480e-8324-92ff87cb22de.svg" alt="hoàng phan" height="60" width="60" /></a>
-    <a href="https://linkedin.com/in/hoàng-phan-sĩ" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/55527757/218378367-5c0765e9-b791-41d6-81ac-8f658af73980.svg" alt="hoàng phan" height="60" width="60" /></a>
-  </p>
-  <p>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://user-images.githubusercontent.com/55527757/185735496-0bb34ea1-f47e-48ca-86ba-b37d3e071e75.png" height="25px" width="25px">
-    &nbsp;Let's get to know each other
+    &nbsp;Contact me: <a href="mailto:dev.phansihoang@gmail.com">dev.phansihoang@gmail.com</a>
   </p>
 </div>
 
