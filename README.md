@@ -2,25 +2,21 @@
 <img width="100%" height="400" alt="banner-git" src="https://github.com/user-attachments/assets/7918af96-8dea-4dcb-893f-c1ea971c4154" />
 
 <h1 align="center">
-  <img src="https://user-images.githubusercontent.com/55527757/185651731-7e42e091-e30e-4de1-aa82-d2e7e87976eb.png" height="40px" width="40px"> 
-    Hi, I'm Hoàng
-  <img src="https://user-images.githubusercontent.com/55527757/185651731-7e42e091-e30e-4de1-aa82-d2e7e87976eb.png" height="40px" width="40px">
+  Hi
+  <img src="https://github.com/user-attachments/assets/3a4672ae-df3d-4b14-bbb1-511905680b05" height="40px" width="40px"> 
+  , I'm Hoàng
+  <img src="https://github.com/user-attachments/assets/19887bed-389a-494a-84b3-30b1d781d03a" height="40px" width="40px">
 </h1>
 
 <div>
   <div>
-    <img  align="left" src="https://user-images.githubusercontent.com/55527757/185730413-c69df10f-6ce1-4872-b239-80dde8ab360a.png" height="30px" width="30px"> 
+    <img align="left" width="30" height="30" alt="gaming" src="https://github.com/user-attachments/assets/d00b707c-c98b-41b8-8dd6-55b583df36d9" />
     <h3>About me</h3>
   </div>
  
   <img height="200px" src="https://user-images.githubusercontent.com/55527757/185731421-3f7a0e8d-c8de-4003-8d21-a423f1232e9d.gif" align="right">
 
   <p>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <img width="22" height="22" alt="avatar" src="https://github.com/user-attachments/assets/3a4672ae-df3d-4b14-bbb1-511905680b05" />
-    &nbsp;Pronouns: <code>...he/him/male</code>
-  </p>
-    <p>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <img width="22" height="22" alt="avatar (1)" src="https://github.com/user-attachments/assets/90f0d78d-374f-4856-aeb3-66ec012a7d06" />
     &nbsp;I’m currently learning everything
@@ -37,7 +33,7 @@
   </p>
   <p>
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <img width="22" height="22" alt="avatar (2)" src="https://github.com/user-attachments/assets/ba9971a6-6912-4f4a-8e10-f334a5c18954" />
+    <img width="22" height="22" alt="avatar (5)" src="https://github.com/user-attachments/assets/1f5c2fa2-b171-4a54-a85a-3429ff57edd1" />
     &nbsp;Goals: <code>...Build solid, scalable, well-tested frontend systems</code>
   </p>
   <p>
@@ -50,7 +46,7 @@
 <br>
 <div>
   <div >
-    <img width="30px" height="30px" align="left" alt="gaming" src="https://github.com/user-attachments/assets/19887bed-389a-494a-84b3-30b1d781d03a" />
+    <img align="left" width="30" height="30" alt="gaming (3)" src="https://github.com/user-attachments/assets/7a7cd6d8-c1cf-4f5c-ba4d-7ad7f39733d7" />
     <h3>Skills</h3>
   </div>
   
@@ -81,7 +77,7 @@
 <br>
 <div>
   <div>
-    <img  align="left" src="https://user-images.githubusercontent.com/55527757/185733518-a7177f95-2ac6-4d86-a85c-f83ff116dd7b.png" height="30px" width="30px"> 
+    <img align="left" width="30" height="30" alt="gaming (2)" src="https://github.com/user-attachments/assets/5856d3fd-5d36-49f4-bde8-4bc3599d23de" />
     <h3>My Stats</h3>
   </div>
   <div>
