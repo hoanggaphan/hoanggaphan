@@ -19,27 +19,42 @@
   <p>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <img width="20" height="20" alt="avatar (1)" src="https://github.com/user-attachments/assets/90f0d78d-374f-4856-aeb3-66ec012a7d06" />
-    &nbsp;I’m currently learning everything
+    &nbsp;I’m currently learning everything that helps me grow as a developer
   </p>
   <p>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <img width="20" height="20" alt="avatar (2)" src="https://github.com/user-attachments/assets/cc4c1c71-d265-4b5a-9639-4e9635c901a1" />
-    &nbsp;Ask me about: <code>...Web dev, React, Next.js</code>
-  </p>
-  <p>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <img width="20" height="20" alt="avatar (3)" src="https://github.com/user-attachments/assets/ac32da5a-f06a-4ae1-a33d-3a7129d109ef" />
-    &nbsp;Hobbies: <code>...Code, Games, Films, Anime, Sports</code>
+    &nbsp;Ask me about: <b>...Web dev, React, Next.js</b>
   </p>
   <p>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <img width="20" height="20" alt="avatar (5)" src="https://github.com/user-attachments/assets/1f5c2fa2-b171-4a54-a85a-3429ff57edd1" />
-    &nbsp;Goals: <code>...Build solid, scalable, well-tested frontend systems</code>
+    &nbsp;Goals: <b>...Build solid, scalable, well-tested frontend systems</b>
+  </p>
+  <p>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img width="20" height="20" alt="avatar (3)" src="https://github.com/user-attachments/assets/ac32da5a-f06a-4ae1-a33d-3a7129d109ef" />
+    &nbsp;I’m working on <b>Next.js projects</b>
+  </p>
+  <p>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img width="20" height="20" alt="avatar (6)" src="https://github.com/user-attachments/assets/3121e861-11b5-480a-90a3-59a4dec94ec3" />
+    &nbsp;I’m looking to collaborate on <b>real-world</b>, <b>exciting projects</b>
+  </p>
+  <p>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img width="20" height="20" alt="avatar (7)" src="https://github.com/user-attachments/assets/48ee069b-1b21-4529-ad52-e79797386a31" />
+    &nbsp;Currently exploring <b>architecture patterns</b> and <b>performance optimization</b>
+  </p>
+  <p>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img width="20" height="20" alt="avatar (3)" src="https://github.com/user-attachments/assets/ac32da5a-f06a-4ae1-a33d-3a7129d109ef" />
+    &nbsp;In my free time I <b>code for fun, watch anime, films, play games</b> and <b>sports</b>
   </p>
   <p>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <img width="20" height="20" alt="avatar (3)" src="https://github.com/user-attachments/assets/7a38c787-f9c0-4ca7-a5bd-8a073599b858" />
-    &nbsp;Contact me: <a href="mailto:dev.phansihoang@gmail.com">dev.phansihoang@gmail.com</a>
+    &nbsp;How to reach me: <a href="mailto:dev.phansihoang@gmail.com">dev.phansihoang@gmail.com</a>
   </p>
 </div>
 
