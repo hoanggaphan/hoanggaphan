@@ -29,7 +29,7 @@
   <p>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <img width="20" height="20" alt="avatar (5)" src="https://github.com/user-attachments/assets/1f5c2fa2-b171-4a54-a85a-3429ff57edd1" />
-    &nbsp;Goals: <b>...Build solid, scalable, well-tested frontend systems</b>
+    &nbsp;Goals: <b>...Build solid, Scalable, Well-tested</b> frontend systems
   </p>
   <p>
     &nbsp;&nbsp;&nbsp;&nbsp;
@@ -39,17 +39,17 @@
   <p>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <img width="20" height="20" alt="avatar (6)" src="https://github.com/user-attachments/assets/3121e861-11b5-480a-90a3-59a4dec94ec3" />
-    &nbsp;I’m looking to collaborate on <b>real-world</b>, <b>exciting projects</b>
+    &nbsp;I’m looking to collaborate on <b>Real-world</b>, <b>Exciting projects</b>
   </p>
   <p>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <img width="20" height="20" alt="avatar (7)" src="https://github.com/user-attachments/assets/48ee069b-1b21-4529-ad52-e79797386a31" />
-    &nbsp;Currently exploring <b>architecture patterns</b> and <b>performance optimization</b>
+    &nbsp;Currently exploring <b>Architecture patterns</b> and <b>Performance optimization</b>
   </p>
   <p>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <img width="20" height="20" alt="avatar (8)" src="https://github.com/user-attachments/assets/e4a021cc-892b-49d7-bbf6-a55c6531af26" />
-    &nbsp;In my free time I <b>code for fun, watch anime, films, play games</b> and <b>sports</b>
+    &nbsp;In my free time I <b>Code for fun, Watch anime, Films, Play games</b> and <b>Sports</b>
   </p>
   <p>
     &nbsp;&nbsp;&nbsp;&nbsp;
