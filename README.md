@@ -10,7 +10,7 @@
 
 <div>
   <div>
-    <img align="left" width="30" height="30" alt="gaming" src="https://github.com/user-attachments/assets/d00b707c-c98b-41b8-8dd6-55b583df36d9" />
+    <img align="left" width="23" height="23" alt="gaming" src="https://github.com/user-attachments/assets/d00b707c-c98b-41b8-8dd6-55b583df36d9" />
     <h3>About me</h3>
   </div>
  
@@ -18,27 +18,27 @@
 
   <p>
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <img width="22" height="22" alt="avatar (1)" src="https://github.com/user-attachments/assets/90f0d78d-374f-4856-aeb3-66ec012a7d06" />
+    <img width="20" height="20" alt="avatar (1)" src="https://github.com/user-attachments/assets/90f0d78d-374f-4856-aeb3-66ec012a7d06" />
     &nbsp;I’m currently learning everything
   </p>
   <p>
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <img width="22" height="22" alt="avatar (2)" src="https://github.com/user-attachments/assets/cc4c1c71-d265-4b5a-9639-4e9635c901a1" />
+    <img width="20" height="20" alt="avatar (2)" src="https://github.com/user-attachments/assets/cc4c1c71-d265-4b5a-9639-4e9635c901a1" />
     &nbsp;Ask me about: <code>...Web dev, React, Next.js</code>
   </p>
   <p>
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <img width="22" height="22" alt="avatar (3)" src="https://github.com/user-attachments/assets/ac32da5a-f06a-4ae1-a33d-3a7129d109ef" />
+    <img width="20" height="20" alt="avatar (3)" src="https://github.com/user-attachments/assets/ac32da5a-f06a-4ae1-a33d-3a7129d109ef" />
     &nbsp;Hobbies: <code>...Code, Games, Films, Anime, Sports</code>
   </p>
   <p>
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <img width="22" height="22" alt="avatar (5)" src="https://github.com/user-attachments/assets/1f5c2fa2-b171-4a54-a85a-3429ff57edd1" />
+    <img width="20" height="20" alt="avatar (5)" src="https://github.com/user-attachments/assets/1f5c2fa2-b171-4a54-a85a-3429ff57edd1" />
     &nbsp;Goals: <code>...Build solid, scalable, well-tested frontend systems</code>
   </p>
   <p>
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <img width="22" height="22" alt="avatar (3)" src="https://github.com/user-attachments/assets/7a38c787-f9c0-4ca7-a5bd-8a073599b858" />
+    <img width="20" height="20" alt="avatar (3)" src="https://github.com/user-attachments/assets/7a38c787-f9c0-4ca7-a5bd-8a073599b858" />
     &nbsp;Contact me: <a href="mailto:dev.phansihoang@gmail.com">dev.phansihoang@gmail.com</a>
   </p>
 </div>
@@ -46,7 +46,7 @@
 <br>
 <div>
   <div >
-    <img align="left" width="30" height="30" alt="gaming (3)" src="https://github.com/user-attachments/assets/7a7cd6d8-c1cf-4f5c-ba4d-7ad7f39733d7" />
+    <img align="left" width="23" height="23" alt="gaming (3)" src="https://github.com/user-attachments/assets/7a7cd6d8-c1cf-4f5c-ba4d-7ad7f39733d7" />
     <h3>Skills</h3>
   </div>
   
@@ -77,7 +77,7 @@
 <br>
 <div>
   <div>
-    <img align="left" width="30" height="30" alt="gaming (2)" src="https://github.com/user-attachments/assets/5856d3fd-5d36-49f4-bde8-4bc3599d23de" />
+    <img align="left" width="23" height="23" alt="gaming (2)" src="https://github.com/user-attachments/assets/5856d3fd-5d36-49f4-bde8-4bc3599d23de" />
     <h3>My Stats</h3>
   </div>
   <div>
