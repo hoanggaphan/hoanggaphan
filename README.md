@@ -104,10 +104,10 @@
     <img  align="left" src="https://user-images.githubusercontent.com/55527757/185733518-a7177f95-2ac6-4d86-a85c-f83ff116dd7b.png" height="30px" width="30px"> 
     <h3>My Stats</h3>
   </div>
-  
   <div>
-    <img width="59%" src="https://github-readme-stats.vercel.app/api?username=hoanggaphan&show_icons=true&locale=en&theme=monokai" alt="hoanggaphan" />
-    <img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs?username=hoanggaphan&show_icons=true&locale=en&layout=compact&theme=monokai" alt="hoanggaphan" /> 
+    <img width="59%" src="https://github-readme-stats.vercel.app/api?username=hoanggaphan&show_icons=true&locale=en&theme=midnight-purple" alt="hoanggaphan" />
+    <img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs?username=hoanggaphan&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="hoanggaphan" /> 
   </div>
+  <img width="59%" src="https://github-readme-streak-stats.herokuapp.com/?user=hoanggaphan&theme=midnight-purple&hide_border=true" alt="hoanggaphan" /> 
   <br>
 </div>
