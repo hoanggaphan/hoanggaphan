@@ -48,7 +48,7 @@
   </p>
   <p>
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <img width="20" height="20" alt="avatar (3)" src="https://github.com/user-attachments/assets/ac32da5a-f06a-4ae1-a33d-3a7129d109ef" />
+    <img width="20" height="20" alt="avatar (8)" src="https://github.com/user-attachments/assets/e4a021cc-892b-49d7-bbf6-a55c6531af26" />
     &nbsp;In my free time I <b>code for fun, watch anime, films, play games</b> and <b>sports</b>
   </p>
   <p>
