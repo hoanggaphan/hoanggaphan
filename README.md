@@ -37,12 +37,12 @@
   </p>
   <p>
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://user-images.githubusercontent.com/55527757/185730865-c8199297-9272-42ee-a422-b9bf48ec87dd.png" height="22px" width="22px">
+    <img width="22" height="22" alt="avatar (2)" src="https://github.com/user-attachments/assets/ba9971a6-6912-4f4a-8e10-f334a5c18954" />
     &nbsp;Goals: <code>...Build solid, scalable, well-tested frontend systems</code>
   </p>
   <p>
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://user-images.githubusercontent.com/55527757/185731593-a05cccdd-36ed-4484-b080-43f931279b4c.png" height="22px" width="22px">
+    <img width="22" height="22" alt="avatar (3)" src="https://github.com/user-attachments/assets/7a38c787-f9c0-4ca7-a5bd-8a073599b858" />
     &nbsp;Contact me: <a href="mailto:dev.phansihoang@gmail.com">dev.phansihoang@gmail.com</a>
   </p>
 </div>
