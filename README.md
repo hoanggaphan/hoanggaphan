@@ -1,12 +1,11 @@
 
+<img width="100%" height="400" alt="banner-git" src="https://github.com/user-attachments/assets/7918af96-8dea-4dcb-893f-c1ea971c4154" />
 
 <h1 align="center">
   <img src="https://user-images.githubusercontent.com/55527757/185651731-7e42e091-e30e-4de1-aa82-d2e7e87976eb.png" height="40px" width="40px"> 
     Hi, I'm Hoàng
   <img src="https://user-images.githubusercontent.com/55527757/185651731-7e42e091-e30e-4de1-aa82-d2e7e87976eb.png" height="40px" width="40px">
 </h1>
-
-<img src="https://user-images.githubusercontent.com/55527757/185646170-604a384a-85bc-4542-8788-f0bc01ff41fd.jpg" height="480px" width="100%"> 
 
 <div>
   <h2 >
@@ -52,7 +51,7 @@
 <div>
   <h2 >
     <img width="40" height="40" align="left" alt="gaming" src="https://github.com/user-attachments/assets/19887bed-389a-494a-84b3-30b1d781d03a" />
-    Languages and Tools
+    Skills
   </h2>
 
   <div>
