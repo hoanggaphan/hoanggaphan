@@ -9,10 +9,9 @@
 
 <div>
   <div>
-    <img  align="left" src="https://user-images.githubusercontent.com/55527757/185730413-c69df10f-6ce1-4872-b239-80dde8ab360a.png" height="40px" width="40px"> 
+    <img  align="left" src="https://user-images.githubusercontent.com/55527757/185730413-c69df10f-6ce1-4872-b239-80dde8ab360a.png" height="30px" width="30px"> 
     <h3>About me:</h3>
   </div>
-  <br/>
  
   <img height="200px" src="https://user-images.githubusercontent.com/55527757/185731421-3f7a0e8d-c8de-4003-8d21-a423f1232e9d.gif" align="right">
 
@@ -51,10 +50,9 @@
 <br>
 <div>
   <div >
-    <img width="40" height="40" align="left" alt="gaming" src="https://github.com/user-attachments/assets/19887bed-389a-494a-84b3-30b1d781d03a" />
+    <img width="30px" height="30px" align="left" alt="gaming" src="https://github.com/user-attachments/assets/19887bed-389a-494a-84b3-30b1d781d03a" />
     <h3>Skills</h3>
   </div>
-  <br/>
   
   <div>
     <p>
@@ -103,10 +101,9 @@
 <br>
 <div>
   <div>
-    <img  align="left" src="https://user-images.githubusercontent.com/55527757/185733518-a7177f95-2ac6-4d86-a85c-f83ff116dd7b.png" height="40px" width="40px"> 
+    <img  align="left" src="https://user-images.githubusercontent.com/55527757/185733518-a7177f95-2ac6-4d86-a85c-f83ff116dd7b.png" height="30px" width="30px"> 
     <h3>GitHub Stats</h3>
   </div>
-  <br/>
   
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=hoanggaphan&show_icons=true&locale=en&theme=monokai" alt="hoanggaphan" />
